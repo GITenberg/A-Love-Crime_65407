@@ -1,0 +1,32 @@
+_repo: A-Love-Crime_65407
+_version: 0.0.1
+alternative_title: Un crime d'amour. English
+creator:
+  author:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Charles Joseph Paul
+    - Bourget, Paul Charles Joseph
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Bourget
+    - https://fr.wikipedia.org/wiki/Paul_Bourget
+description: ''
+gutenberg_issued: '2021-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'French fiction -- 19th century'
+- GITenberg
+title: A Love Crime
+url: http://www.gutenberg.org/ebooks/65407
