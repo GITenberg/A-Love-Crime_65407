@@ -1,6 +1,9 @@
 _repo: A-Love-Crime_65407
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Un crime d'amour. English
+covers:
+- cover_type: archival
+  image_path: 65407-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourget, Paul
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Bourget
     - https://fr.wikipedia.org/wiki/Paul_Bourget
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65407#A-Love-Crime
 gutenberg_issued: '2021-05-22'
 gutenberg_type: Text
 identifiers:
